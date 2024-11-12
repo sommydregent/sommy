@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(0, 174, 255);
+    width: 100%;
+    place-content: center;
+    display: grid;
+    justify-content: center;
+}
+
+#chris{
+    color: blueviolet;
+}
+
+#somto{
+    justify-content: center;
+    color: rgba(165, 42, 42, 0.671);
+    display: grid;
+    align-content: center;
+    place-content: center;
+    width:50%
+
+}

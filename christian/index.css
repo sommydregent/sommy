@@ -1,0 +1,28 @@
+#name{
+
+    color: blue;
+}
+#description{
+
+    color: white;
+}
+body{
+    background-color: maroon;
+    place-content: center;
+    text-align: center;
+    place-items: center;
+    display: grid 50%;
+    vertical-align: middle;
+}
+
+#container{
+    border-radius: 30px;
+    border: 5px solid green;
+    background-color: darkgray;
+    width: 50%;
+    justify-content: center;
+    display: 100%;
+    margin: 20%;
+    padding: 10%;
+
+}
